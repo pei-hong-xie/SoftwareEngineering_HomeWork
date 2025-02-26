@@ -1,2 +1,3 @@
 # SoftwareEngineering_HomeWork
 这是一份来自大三时期的软件工程作业
+主要学习Git的具体使用方法
